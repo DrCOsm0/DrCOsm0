@@ -3,9 +3,6 @@
     <p> <b> Software Developer | Cybersecurity Researcher </b> </p>
     <p align="center">
         <kbd>
-            <a href="mailto:jaibhullar1@gmail.com" target="_blank" title="Mail">
-                <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
-            </a>
             <a href="https://drcosm0.github.io/projects/" target="_blank" title="Github"><img
                     src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
             </a>
