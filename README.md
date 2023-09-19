@@ -17,5 +17,5 @@
     <a href="https://drcosm0.github.io/projects/" target="_blank" title="Snake eats commits!">
         <img width="700" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/snake.svg" />
     </a>
-    <p> If you like my work, hit <b>✨ Follow ✨</b> for updates </p>
+    <p>🗿</p>
 </div>
