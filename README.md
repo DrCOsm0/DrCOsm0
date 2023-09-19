@@ -6,11 +6,9 @@
             <a href="mailto:jaibhullar1@gmail.com" target="_blank" title="Mail">
                 <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
             </a>
-            <a href="https://2kabhishek.github.io/projects" target="_blank" title="Blog"><img
+            <a href="https://drcosm0.github.io/projects/" target="_blank" title="Blog"><img
                     src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
             </a>
-            <a href="https://2kabhishek.github.io/blog" target="_blank" title="Blog"><img
-                    src="https://img.shields.io/badge/-Blog-ff8800?style=flat&logo=blogger&logoColor=white" />
             </a>
             <a href="https://twitter.com/2kabhishek" target="_blank" title="Twitter - 2KAbhishek">
                 <img src="https://img.shields.io/badge/-2KAbhishek-00acee?style=flat&logo=Twitter&logoColor=white" />
