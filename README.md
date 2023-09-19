@@ -18,7 +18,7 @@
         <img width="700" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/snake.svg" />
     </a>
     <a href="https://drcosm0.github.io/projects/" target="_blank" title="Snake eats commits!">
-        <img width="700" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/favicon.png" />
+        <img width="100" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/favicon.png" />
     </a>
     <p>🗿</p>
 </div>
