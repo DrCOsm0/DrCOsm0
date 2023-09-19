@@ -18,7 +18,7 @@
         <img width="700" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/snake.svg" />
     </a>
     <p>
-    <a href="https://drcosm0.github.io/projects/" target="_blank" title="Snake eats commits!">
+    <a href="https://www.youtube.com/watch?v=2yn27IOj2TU&ab_channel=AustinCompton" target="_blank" title="Snake eats commits!">
         <img width="2" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/favicon.png" />
     </a>
     </p>
