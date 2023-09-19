@@ -10,7 +10,7 @@
                     src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
             </a>
             <a href="https://www.linkedin.com/in/jaibhullar/" target="_blank" title="LinkedIn - 2KAbhishek">
-                <img src="https://img.shields.io/badge/-2KAbhishek-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+                <img src="https://img.shields.io/badge/-Jai Bhullar-0072b1?style=flat&logo=Linkedin&logoColor=white" />
             </a>
         </kbd>
     </p>
