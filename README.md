@@ -19,7 +19,6 @@
         <img width="20" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/favicon.png" />
     </a>
     <audio controls>
-      <source src="horse.ogg" type="audio/ogg">
       <source src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/test.mp3"" type="audio/mpeg">
     </audio>
     </p>
