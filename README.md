@@ -19,9 +19,4 @@
         <img width="20" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/favicon.png" />
     </a>
     </p>
-    <p>
-    <a href="https://drcosm0.github.io/projects/" target="_blank" title="Richie!">
-        <img width="100" src="https://github.com/DrCOsm0/DrCOsm0/blob/main/assets/gen/dance-cowboy.gif" />
-    </a>
-    </p>
 </div>
