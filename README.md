@@ -1,6 +1,6 @@
 <div align="center">
     <h3> <a href="https://drcosm0.github.io/projects/" target="_blank">DrCOsm0 </a> </h3>
-    <p> <b> Software Developer | Cybersecurity Researcher </b> </p>
+    <p> <b> Cloud Engineer | Cybersecurity Researcher </b> </p>
     <p align="center">
         <kbd>
             <a href="https://drcosm0.github.io/projects/" target="_blank" title="Github"><img
